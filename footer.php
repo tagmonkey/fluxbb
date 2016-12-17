@@ -122,6 +122,7 @@ else if ($footer_style == 'viewtopic')
 		</div>
 	</div>
 </div>
+<script type="text/javascript">void function(win,doc){var _css=doc.createElement('link');_css.href='https://fonts.googleapis.com/css?family=Karla:400,700&amp;subset=latin-ext';_css.rel='stylesheet';doc.getElementsByTagName('head')[0].appendChild(_css);win.onload=handleLoad;function handleLoad(){win.onload=function(){};doc.documentElement.setAttribute('class','font-loaded');}}(window,window.document);</script>
 <?php
 
 // Display debug info (if enabled/defined)
